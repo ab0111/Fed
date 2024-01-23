@@ -63,7 +63,6 @@ button, summary {
   
   }
 
-@import url('https://fonts.googleapis.com/css2?family=Expletus+Sans&display=swap');
 
 main {
 
@@ -115,7 +114,7 @@ main section:nth-of-type(2)  p {
 	color:#3B2774 ;
 	padding-inline: 12em;
 	padding-block: 1em;
-	font-family: "RecoletaMedium",Arial,Helvetica,sans-serif;
+	font-family: "RecoletaRegular",Arial,Helvetica,sans-serif;
 
 	font-size: 1.5em;
 
@@ -211,7 +210,7 @@ main section:nth-of-type(2)  p {
 		height: 100vh;
 		left: 0;
 		top: 0;
-		width: 100vw;
+		width: 10vw;
 		padding: 10em;
 		gap: 2em;
 		
@@ -345,11 +344,12 @@ h1 {
 
 main section:nth-of-type(1)  h2 { 
 
-  font-size: 3em;
+  font-size: 4em;
   text-align: center;
+  font-weight: 400;
   color: white;
 	width: 17em;
- top: 6em;
+ top: 3em;
   font-family: "RecoletaMedium",Arial,Helvetica,sans-serif;
   margin: auto;
  
@@ -369,7 +369,6 @@ main section:nth-of-type(2) {
 
 
 
-/* plag */
 
 ul {
     list-style: none;
@@ -541,7 +540,7 @@ footer img:first-of-type {
 			grid-template-columns: 1fr 1fr 1fr 1fr;
 			gap: 1em;
 			padding-top: 5em;
-			
+			background-color: white;
 
 		}
 
@@ -610,4 +609,60 @@ footer img:first-of-type {
 			left: 0;
 		
 			
+		}
+
+
+
+		@media only screen and (max-width: 900px) {
+			main img {
+				width: 100%; 
+			}
+		
+			input {
+				padding-inline: 1em; 
+			}
+		
+			main section:nth-of-type(2) p {
+				padding-inline: 1em; 
+			}
+		
+			header {
+				padding: 0.5em; 
+			}
+		
+			header ul {
+				flex-direction: column; 
+			}
+		
+			header img {
+				max-width: 8em; 
+			}
+		
+			header form label {
+				display: none; 
+			}
+		
+			h1 {
+				right: 0; 
+			}
+		
+			main section:nth-of-type(1) h2 {
+				width: auto; 
+				top: 0; 
+			}
+		
+			ul li button {
+				padding-inline: 2em; 
+			}
+		
+			footer {
+				grid-template-columns: 1fr;
+			}
+			footer img:first-of-type {
+				width: 100%; 
+			}
+		
+			footer img:nth-of-type(2) {
+				width: 100%; 
+			}
 		}
