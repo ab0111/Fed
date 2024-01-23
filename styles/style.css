@@ -69,9 +69,120 @@ html{
 	}
 
 
+	header {
+		display: flex;
+		justify-content: space-between;
+		position: fixed;
+		left: 0;
+		right: 0;
+		padding: 1em;
+		width: 100%;
+		align-items: center;
+		background-color:#7d69ac;
+	
+	}
+	
+	
+	nav {
+		display: none;
+		align-items: center;
+		max-width: 100%;
+		
+	}
+	
+	@media (width > 900px){
+		nav {
+		display: flex;
+	
+			
+		}
+		}
+	
+	
+	
+	
+	
+	
+	header li a{
+	text-decoration: none;
+	padding: 1em;
+	color: white;
+	text-transform:uppercase;
+	font-family: GoodHeadlinePro,Arial,Helvetica,sans-serif;
+	letter-spacing: 2px;
+	font-weight: 700;
+	font-size: 17px;
+	}
+	
+	header img {
+	width: 10em;
+	max-width: 100%;
+	
+	}
+	
+	header button {
+		display: flex;
+		gap: 1em;
+		flex-direction: column;
+		background-color: transparent;
+		border: none;
+		z-index: 2;
+		}
+		
+		@media (width > 900px){
+			header button {
+			display: none;
+				
+			}
+			}
+	
+	header input {
+		padding-inline: 4em;
+		padding-block: 0.5em;
+	
+	}
+	
+	header input[type="search"] {
+		padding-left: 2.5em;
+	
+	}
+	
+	
+	header input[type="submit"] {
+		
+		background-color: white;
+	
+	}
+
+
+	header form label{
+		position:absolute ;
+		margin-left: 0.5em;
+		margin-top: 0.3em;
+		}
+		
+		header form {
+			display:flex ;
+			
+			}
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
 body {
 	background-image: url(/images/achtergrond-kleur.jpeg);
-}
+		overflow-x: hidden ;
+		max-width: 100%;
+		}
+		
+
 
 main img{
 width: 100%;
@@ -79,113 +190,11 @@ width: 100%;
 }
 
 
-header {
-	display: flex;
-	justify-content: space-between;
-	position: fixed;
-	left: 0;
-	right: 0;
-	padding: 1em;
-	width: 100%;
-	align-items: center;
-	background-color:#7d69ac;
 
-}
-
-
-nav {
-	display: none;
-	align-items: center;
-	max-width: 100%;
-	
-}
-
-@media (width > 900px){
-	nav {
-	display: flex;
-
-		
-	}
-	}
-
-
-
-
-
-
-header li a{
-text-decoration: none;
-padding: 1em;
-color: white;
-text-transform:uppercase;
-font-family: GoodHeadlinePro,Arial,Helvetica,sans-serif;
-letter-spacing: 2px;
-font-weight: 700;
-font-size: 17px;
-}
-
-header img {
-width: 10em;
-max-width: 100%;
-
-}
-
-header button {
-	display: flex;
-	gap: 1em;
-	flex-direction: column;
-	background-color: transparent;
-	border: none;
-	z-index: 2;
-	}
-	
-	@media (width > 900px){
-		header button {
-		display: none;
-			
-		}
-		}
-
-header input {
-	padding-inline: 4em;
-	padding-block: 0.5em;
-
-}
-
-header input[type="search"] {
-	padding-left: 2.5em;
-
-}
-
-
-header input[type="submit"] {
-	
-	background-color: white;
-
-}
 
 .screenreader {
 clip-path: inset(50%);
 }
-
-
-
-header form label{
-position:absolute ;
-margin-left: 0.5em;
-margin-top: 0.3em;
-}
-
-header form {
-	display:flex ;
-	
-	}
-	
-
-
-
-
-
 
 
 
@@ -348,9 +357,6 @@ z-index: 2;
 
 
 
-body{
-
-}
 
 .ingredienten section:nth-of-type(1) {
 
@@ -605,7 +611,7 @@ footer {
 
 
 	
-	width: fit-content;
+	
 	
 
 }
