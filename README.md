@@ -36,6 +36,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
+  ![image](https://github.com/ab0111/Fed/assets/118175398/b5f5b8b8-a7eb-47a6-a88a-dd9a96c21480)
+
   [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://www.milka.nl/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
