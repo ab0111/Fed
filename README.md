@@ -267,7 +267,7 @@ Het verbeteren van de responsiviteit.
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
   1. https://dlo.mijnhva.nl/d2l/le/content/437099/Home
-  2. bron 2
+  2. [bron 2](https://www.milka.nl/nieuws)https://www.milka.nl
   3. ...
 
 </details>
