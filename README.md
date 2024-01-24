@@ -54,21 +54,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  ![image](https://github.com/ab0111/Fed/assets/118175398/10040c68-dee8-4480-9473-08827585a32d)
 ![image](https://github.com/ab0111/Fed/assets/118175398/902e3049-4566-42c0-9c3e-0e61e92e174f)
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
 </details>
 
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-<details>
+<details open>
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  - Door alt in een img toe te voegen werd er verteld waar je de afbeelding over ging
-  - Het is belanrijk om de key board shortcuts uit je hoofd te kennen.
-  - Door de shift knop te gebruiken kun je makkelijk door de website navigeren.
+
+
+- Door Alt toe te voegen aan een afbeelding, wordt de inhoud ervan duidelijker gecommuniceerd aan gebruikers, waardoor ze beter begrijpen waar de afbeelding over gaat.
+
+- Het is essentieel om vertrouwd te zijn met de sneltoetsen op het toetsenbord om efficiënt te kunnen navigeren.
+
+- Het gebruik van Shift biedt een handige manier om door de website te navigeren, waardoor de bruikbaarheid wordt vergroot.
 
 
   #### Screenreader
@@ -89,7 +91,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Een screenreader is een goede oplossing voor dit probleem.
 
 
-<details>
+<details open>
   <summary>uitwerken na afloop 2e werkgroep</summary>
   ## Breakdownschets (week 1)
   ### de hele pagina: 
@@ -103,11 +105,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  - Ik had moeite met het aanmaken van een navbar.
+  - Het creëren van een navigatiebalk bleek uitdagend voor mij.
+  - Ik ondervond moeilijkheden bij het gebruik van JavaScript toen ik begon met het aanmaken van mijn hamburgermenu.
 
 
   ### Agenda voor meeting
@@ -117,14 +120,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ---            | ---                | ---          | ---              |
   | navbar         | en dit             | en ik dit    | en dan ik dat    |
   | responsiveness | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Javascript     | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
-  - maak de oefeningen op codepen.
-
-
+ 
+  Het uitwerken van de opdrachten op dlo heeft mij geholpen met het aanmaken van een hamburgermenu en het gebruik maken van grids. Daarnaast heeft Quinten waardevolle feedback gegeven met betrekking tot de responsiviteit, waardoor ik concrete punten had om aan te werken en mijn skills te verbeteren.
+  
 </details>
 
 
@@ -133,11 +136,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 2 (week 3)
 
-<details>
+<details open>
   <summary>uitwerken voor 2e voortgang</summary>
 
   ### Stand van zaken
-  Moeite met responsiveness.
+ - Mijn Html code heb ik af
+ - Moeite met responsiveness.
+ - Ik moet me meer verdiepen in css
 
 
   ### Agenda voor meeting
@@ -145,15 +150,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | mobile first   | en dit             | en ik dit    | en dan ik dat    |
-  |                | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | Responsiveness   | en dit             | en ik dit    | en dan ik dat    |
+  | Css            | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
- Het aanpassen van code voor mobile version.
+  In de derde week ondervond ik aanzienlijke uitdagingen met betrekking tot de responsiviteit van mijn website. Aanvankelijk was ik bezig met coderen op een desktop scherm en had ik beperkte kennis van media queries. Ik heb feedback gevraagd aan zowel Quinten als Joppe om mijn begrip te verbeteren en ben vervolgens actief aan de slag gegaan om de responsiviteit van mijn website te verbeteren.
+ 
 - ...
 
 </details>
@@ -164,34 +168,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 2/2 (week 4)
 
-<details>
+<details open>
   <summary>uitwerken na test in 8e werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+ 
+  Door mijn screenreader te gebruiken, kon ik toegankelijkheidsproblemen identificeren en vervolgens corrigeren.
+  Het vermijden van uitdrukkingen zoals "klik hier".
+  Het verbeteren van contrast en kleurgebruik.
 
   #### Screenreader
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Deze keer was ik meer vertrouwd met het NVDA-programma. Ik heb de sneltoetsen goed onder de knie gekregen, waardoor ik gemakkelijk door mijn website kon navigeren. Het was echter enigszins verwarrend omdat mijn website in het Nederlands is en het programma in het Engels was ingesteld. Soms begreep ik niet goed wat er werd gezegd.
 
 
   #### Muis en Toetsenbord 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Motoriek (shocks, elastiekjes)
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
-
-
-  #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-  Hier korte omschrijving (met indien nodig afbeeldingen)
-
-  Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+  Desondanks bleek dit de gemakkelijkste en snelste manier om door mijn website te navigeren.
 
 </details>
 
@@ -201,29 +192,32 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 3 (week 4)
 
-<details>
+<details open>
   <summary>uitwerken voor 3e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
+  - Mijn html is af en css bijna helemaal goed
+  - Responsiveness van mijn website klopt nog niet helemaal
+  - 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
   | ---            | ---                | ---          | ---              |
-  | toegankelijkheid
-    werkt niet     | en dit             | en ik dit    | en dan ik dat    |
-  |                | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  |toegankelijkheid| en dit             | en ik dit    | en dan ik dat    |
+  |hamburgermenu   | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | responsiveness  | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-oefenen met toegankelijkheid
+Ik zou mijn website vaker moeten testen met een screenreader. Joppe heeft waardevolle inzichten gegeven en feedback geleverd op gebieden waar ik lang aan heb gewerkt en waar ik uiteindelijk niet uitkwam. Hier zijn de specifieke punten waarbij hij me heeft bijgestaan:
 
+Hamburgermenu.
+CSS.
+Het verbeteren van de responsiviteit.
 </details>
 
 
@@ -236,19 +230,29 @@ oefenen met toegankelijkheid
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+ ![screencapture-127-0-0-1-5500-nieuws-html-2024-01-24-02_48_18](https://github.com/ab0111/Fed/assets/118175398/933dc997-9560-4b52-8984-2c1b91468d71)
+![screencapture-127-0-0-1-5500-index-html-2024-01-24-02_49_21](https://github.com/ab0111/Fed/assets/118175398/325d99d2-1d64-4a14-aadd-68aebda79c49)
+
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
-
+  Waar ik trots op kan zijn, is mijn vooruitgang in het gebruik van semantisch vanilla HTML en CSS. Hoewel er nog veel te leren valt, beschik ik nu over meer kennis dan enkele jaren geleden. Ook merk ik verbetering in het responsief maken van websites, en mijn begrip van CSS en hoe dit het beste kan worden toegepast is toegenomen.
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Ik had bijna een voldoende behaald, maar ik wil mijn website nog verder verbeteren. Hieronder volgt een lijst van aanpassingen en verwerkingen die ik nog moet doen:
+
+  Verwerken van validatorfouten en waarschuwingen.
+  Het afronden van het formulier op de homepage.
+  Een tekst toevoegen aan de verzendknop in de navigatiebalk.
+  Een hover-effect toevoegen aan de links in de footer.
+  Het hover-effect van de knoppen aanpassen zodat de tekst leesbaar blijft.
+  Mogelijk de grid van mijn startpagina beter organiseren.
+  Een ID toevoegen aan een formulier.
+  Spatie tussen woorden van een afbeelding verwijderen.
+
 </details>
 
 
@@ -262,7 +266,7 @@ oefenen met toegankelijkheid
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
+  1. https://dlo.mijnhva.nl/d2l/le/content/437099/Home
   2. bron 2
   3. ...
 
