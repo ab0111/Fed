@@ -41,7 +41,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://www.milka.nl/)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  homepagina
+  Homepagina
   ![screenshot1-milka](https://github.com/ab0111/Fed/assets/118175398/4672d657-a3ad-4caf-94ae-e4ca4e16aa39)
 ![screenshot2-milka](https://github.com/ab0111/Fed/assets/118175398/b1a0dc5e-4b6f-491b-ba8b-17b0e6a82938)
 
@@ -50,7 +50,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   #### Screenshot(s) van de tweede pagina (small screen):
- nieuws
+ Nieuws pagina
+ ![image](https://github.com/ab0111/Fed/assets/118175398/10040c68-dee8-4480-9473-08827585a32d)
+![image](https://github.com/ab0111/Fed/assets/118175398/902e3049-4566-42c0-9c3e-0e61e92e174f)
+
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
@@ -63,43 +66,39 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 1e werkgroep</summary>
 
   ### Bevindingen
-  
-  Ik heb het NVDA-programma op mijn Windows-besturingssysteem geïnstalleerd en ben begonnen met het uitproberen van de sneltoetsen. Ik merkte dat het gebruik ervan lastig was, en mijn laptop reageerde niet optimaal op de knoppen van de screenreader.
+  - Door alt in een img toe te voegen werd er verteld waar je de afbeelding over ging
+  - Het is belanrijk om de key board shortcuts uit je hoofd te kennen.
+  - Door de shift knop te gebruiken kun je makkelijk door de website navigeren.
+
 
   #### Screenreader
-
-
+  Ik heb het NVDA-programma op mijn Windows-besturingssysteem geïnstalleerd en ben begonnen met het uitproberen van de sneltoetsen. Ik merkte dat het gebruik ervan lastig was, en mijn laptop reageerde niet   optimaal op de knoppen van de screenreader.
 
   #### Muis en Toetsenbord 
-Ik heb geprobeerd de highlightfunctie in te schakelen door op Caps Lock en de spatiebalk te klikken, maar dat werkte niet. Om de scanmodus aan en uit te zetten, heb ik de H-knop gebruikt. Het selecteren van de volgende kopteksten door op de cijfers 1 tot 6 te klikken, bleek niet te werken. Om naar de volgende kop te gaan, heb ik de K-knop gebruikt. Voor het navigeren naar de volgende link heb ik op Ctrl geklikt.
+  Ik heb geprobeerd de highlightfunctie in te schakelen door op Caps Lock en de spatiebalk te klikken, maar dat werkte niet. Om de scanmodus aan en uit te zetten, heb ik de H-knop gebruikt. Het selecteren van de   volgende kopteksten door op de cijfers 1 tot 6 te klikken, bleek niet te werken. Om naar de volgende kop te gaan, heb ik de K-knop gebruikt. Voor het navigeren naar de volgende link heb ik op Ctrl geklikt.
 
+  Dit was voor mij de makkelijkste manier om door de websites te browsen.Als je geen toetsenbord wilt/kunt gebruiken dan kun je altijd gebruikmaken van een screenreader maar zonder muis en toetsenbord wordt het    lastig om een computer te bedienen.
 
   #### Motoriek (shocks, elastiekjes)
- niet gebruikt.
+   Met een motorische beperking kon ik amper door de website navigeren, het was moeilijk om op de buttons te klikken en op één plek te blijven.
+   Met een motorische beperking kun je het beste gebruik maken van het toetsenbord. Door de instellingen was je toetsenboard te veranderen kun je deze makkelijker bedienen.
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
-niet gebruikt.
+  Met de kleurenblind bril kon ik makkelijk door de website navigeren. Het was mogelijk om de tekst en kleuren te zien op de websites
+  Een screenreader is een goede oplossing voor dit probleem.
 
-
-## Breakdownschets (week 1)
 
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
-
+  ## Breakdownschets (week 1)
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
-
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ![breakdownSchets-homepagina](https://github.com/ab0111/Fed/assets/118175398/fa02d54f-7afb-40b7-a6c8-d63e5ca43e84)
+  ![breakdownSchets-nieuws](https://github.com/ab0111/Fed/assets/118175398/1708476d-a453-4621-a3fe-b4f9ee295834)
 
 </details>
-
-
-
 
 
 ## Voortgang 1 (week 2)
@@ -108,7 +107,7 @@ niet gebruikt.
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  Ik had moeite met het aanmaken van een navbar.
+  - Ik had moeite met het aanmaken van een navbar.
 
 
   ### Agenda voor meeting
