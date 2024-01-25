@@ -226,7 +226,7 @@ Het verbeteren van de responsiviteit.
 
 ## Eindgesprek (week 5)
 
-<details>
+<details open>
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
@@ -252,6 +252,13 @@ Het verbeteren van de responsiviteit.
   Mogelijk de grid van mijn startpagina beter organiseren.
   Een ID toevoegen aan een formulier.
   Spatie tussen woorden van een afbeelding verwijderen.
+  De afbeelding op de homepage van Mig de "doe mee en win"-knop verwijderen met behulp van Photoshop. Daarnaast de "doe mee en win"-knop zo aanpassen dat deze responsive is.
+  De knop uit de homepage-afbeelding van Milka verwijderen met behulp van Photoshop. 
+  De "Doe mee en win" knop aanpassen zodat deze responsive is.
+
+
+
+
 
 </details>
 
