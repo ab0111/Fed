@@ -258,19 +258,48 @@ Het bleek lastig voor mij om een hamburgermenu te coderen en mijn desktop websit
 Ik had bijna een voldoende behaald, maar ik wil mijn website nog verder verbeteren. Hieronder volgt een lijst van aanpassingen en verwerkingen die ik nog moet doen:
 
   Verwerken van validatorfouten en waarschuwingen.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/16d6c44d-a8d9-4a77-a354-91eee99b9e18)
 
-  Het afronden van het formulier op de homepage.
-![image](https://github.com/ab0111/Fed/assets/118175398/ace78f8a-1152-4f49-83d1-6b9c185da976)
+  1. Het afronden van het formulier op de homepage.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/2c25c0ae-2064-4968-8ddd-88b32c4bbc94)
 
-  Een tekst toevoegen aan de verzendknop in de navigatiebalk.
-  Een hover-effect toevoegen aan de links in de footer.
-  Het hover-effect van de knoppen aanpassen zodat de tekst leesbaar blijft.
-  Mogelijk de grid van mijn startpagina beter organiseren.
-  Een ID toevoegen aan een formulier.
-  Spatie tussen woorden van een afbeelding verwijderen.
-  De afbeelding op de homepage van Mig de "doe mee en win"-knop verwijderen met behulp van Photoshop. Daarnaast de "doe mee en win"-knop zo aanpassen dat deze responsive is.
-  De knop uit de homepage-afbeelding van Milka verwijderen met behulp van Photoshop. 
-  De "Doe mee en win" knop aanpassen zodat deze responsive is.
+  2. Een tekst toevoegen aan de verzendknop in de navigatiebalk.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/2cd7d537-1168-464c-ab7b-fafa6f8037c8)
+
+  2. Een hover-effect toevoegen aan de links in de footer.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/f159cad0-88af-45f0-aa97-83a52cdade49)
+
+  3. Het hover-effect van de knoppen aanpassen zodat de tekst leesbaar blijft.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/c410e2f1-8b4a-4afb-85ee-8663406d4f95)
+
+  4. Een ID toevoegen aan een formulier.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/e663d2cd-9164-42e5-a92e-f4f1d2f71738)
+
+  5. Spatie tussen woorden van een afbeelding verwijderen.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/6041c186-0c4e-4ca0-8d92-1bb68b48eb09)
+
+  7. De knop uit de homepage-afbeelding van Milka verwijderen met behulp van Photoshop. 
+   ![image](https://github.com/ab0111/Fed/assets/118175398/ebffa9a7-0b9a-4cf7-aead-3c940061ebbc)
+
+  9.  De "Doe mee en win" knop aanpassen zodat deze responsive is.
+  ![image](https://github.com/ab0111/Fed/assets/118175398/f5d7a7f7-bdb2-4d52-948a-fd7a956e65da)
+
+
+Verwerkte feedback resultaten:
+![image](https://github.com/ab0111/Fed/assets/118175398/1a56696e-d7cd-495e-9dfe-b9bc2dcad505)
+![image](https://github.com/ab0111/Fed/assets/118175398/07a218d8-f742-421a-acc4-f8b2b41174b9)
+![image](https://github.com/ab0111/Fed/assets/118175398/f96253d9-ac13-4583-b887-70a1174a0cca)
+![image](https://github.com/ab0111/Fed/assets/118175398/f7b9bc85-c121-453f-9131-c1c1c7e86d6c)
+![image](https://github.com/ab0111/Fed/assets/118175398/1780e501-509a-4be8-96ea-188e74cacdba)
+![image](https://github.com/ab0111/Fed/assets/118175398/9d570e17-f067-4b2e-946f-0b75758d9e6c)
+![image](https://github.com/ab0111/Fed/assets/118175398/5d1b95ec-b03e-4f0f-8c59-8e418bdbf2f8)
+![image](https://github.com/ab0111/Fed/assets/118175398/1d8fd38b-83a2-48f5-9971-6d68236fbdbb)
+![image](https://github.com/ab0111/Fed/assets/118175398/94b55a2d-adf9-4dea-b5d0-803261505d11)
+
+
+
+
+
 
 
 
