@@ -258,6 +258,7 @@ Het bleek lastig voor mij om een hamburgermenu te coderen en mijn desktop websit
 Ik had bijna een voldoende behaald, maar ik wil mijn website nog verder verbeteren. Hieronder volgt een lijst van aanpassingen en verwerkingen die ik nog moet doen:
 
   Verwerken van validatorfouten en waarschuwingen.
+
   Het afronden van het formulier op de homepage.
 ![image](https://github.com/ab0111/Fed/assets/118175398/ace78f8a-1152-4f49-83d1-6b9c185da976)
 
