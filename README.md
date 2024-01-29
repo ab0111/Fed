@@ -42,7 +42,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepagina
-  ![screenshot1-milka](https://github.com/ab0111/Fed/assets/118175398/4672d657-a3ad-4caf-94ae-e4ca4e16aa39)
+![screenshot1-milka](https://github.com/ab0111/Fed/assets/118175398/4672d657-a3ad-4caf-94ae-e4ca4e16aa39)
 ![screenshot2-milka](https://github.com/ab0111/Fed/assets/118175398/b1a0dc5e-4b6f-491b-ba8b-17b0e6a82938)
 
 
@@ -51,7 +51,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
  Nieuws pagina
- ![image](https://github.com/ab0111/Fed/assets/118175398/10040c68-dee8-4480-9473-08827585a32d)
+![image](https://github.com/ab0111/Fed/assets/118175398/10040c68-dee8-4480-9473-08827585a32d)
 ![image](https://github.com/ab0111/Fed/assets/118175398/902e3049-4566-42c0-9c3e-0e61e92e174f)
 
 </details>
@@ -89,6 +89,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Met de kleurenblind bril kon ik makkelijk door de website navigeren. Het was mogelijk om de tekst en kleuren te zien op de websites
   Een screenreader is een goede oplossing voor dit probleem.
+![image](https://github.com/ab0111/Fed/assets/118175398/ea424485-4998-4adc-b18a-d9715e864fc0)
 
 
 <details open>
@@ -238,14 +239,28 @@ Het verbeteren van de responsiviteit.
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  Waar ik trots op kan zijn, is mijn vooruitgang in het gebruik van semantisch vanilla HTML en CSS. Hoewel er nog veel te leren valt, beschik ik nu over meer kennis dan enkele jaren geleden. Ook merk ik verbetering in het responsief maken van websites, en mijn begrip van CSS en hoe dit het beste kan worden toegepast is toegenomen.
+  Waar ik trots op kan zijn, is mijn vooruitgang in het gebruik van semantisch vanilla HTML en CSS. Hoewel er nog veel te leren valt, beschik ik nu over meer     kennis dan enkele jaren geleden. Ook merk ik verbetering in het responsief maken van websites, en mijn begrip van CSS en hoe dit het beste kan worden toegepast is toegenomen.
+  
+  semantsich html code
+  ![image](https://github.com/ab0111/Fed/assets/118175398/0709039a-4149-472d-8aed-0601cf1afe8c)
+
+  Mobile responsive
+![image](https://github.com/ab0111/Fed/assets/118175398/eedf108d-e456-4a5c-9618-d6c382aff883)
+
+  Desktop responsive
+![image](https://github.com/ab0111/Fed/assets/118175398/16b141e8-c62c-4da3-9fe8-a8cfb648fe7e)
+
 
   ### Dit was lastig/Is niet gelukt:
 
-  Ik had bijna een voldoende behaald, maar ik wil mijn website nog verder verbeteren. Hieronder volgt een lijst van aanpassingen en verwerkingen die ik nog moet doen:
+Het bleek lastig voor mij om een hamburgermenu te coderen en mijn desktop website versie responsief te maken voor mobielen. Het kostte aanzienlijk veel inspanning en tijd voordat ik het voltooid had. In de komende periode wil ik mijn kennis van Javascript verder verdiepen en meer praktijkervaring opdoen met coderen, zodat ik beter word in het maken van websites die er op alle schermformaten goed uitzien.
+
+Ik had bijna een voldoende behaald, maar ik wil mijn website nog verder verbeteren. Hieronder volgt een lijst van aanpassingen en verwerkingen die ik nog moet doen:
 
   Verwerken van validatorfouten en waarschuwingen.
   Het afronden van het formulier op de homepage.
+![image](https://github.com/ab0111/Fed/assets/118175398/ace78f8a-1152-4f49-83d1-6b9c185da976)
+
   Een tekst toevoegen aan de verzendknop in de navigatiebalk.
   Een hover-effect toevoegen aan de links in de footer.
   Het hover-effect van de knoppen aanpassen zodat de tekst leesbaar blijft.
@@ -273,8 +288,8 @@ Het verbeteren van de responsiviteit.
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. https://dlo.mijnhva.nl/d2l/le/content/437099/Home
-  2. [bron 2](https://www.milka.nl/nieuws)https://www.milka.nl
-  3. ...
+  1. Css gids: https://css-tricks.com/snippets/css/complete-guide-grid/
+  2. Originele website van Milka: [bron 2](https://www.milka.nl/nieuws)https://www.milka.nl
+  3. Responsive hamburger menu: [...](https://codepen.io/shooft/pen/ZEVYyMQ)https://codepen.io/shooft/pen/ZEVYyMQ
 
 </details>
