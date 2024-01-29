@@ -339,5 +339,7 @@ Het verbeteren van de responsiviteit.
   1. Css gids: https://css-tricks.com/snippets/css/complete-guide-grid/
   2. Originele website van Milka: [bron 2](https://www.milka.nl/nieuws)https://www.milka.nl
   3. Responsive hamburger menu: [...](https://codepen.io/shooft/pen/ZEVYyMQ)https://codepen.io/shooft/pen/ZEVYyMQ
+  4. WCAG checklist van mijn website: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-AbderahmanBenrhziyel.pdf
+  5. WCAG checklist van Milka website:
 
 </details>
