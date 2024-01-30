@@ -336,12 +336,10 @@ Het verbeteren van de responsiviteit.
   1. Css gids: https://css-tricks.com/snippets/css/complete-guide-grid/
   2. Originele website van Milka: [bron 2](https://www.milka.nl/nieuws)https://www.milka.nl
   3. Responsive hamburger menu: [...](https://codepen.io/shooft/pen/ZEVYyMQ)https://codepen.io/shooft/pen/ZEVYyMQ
-  4. WCAG checklist van mijn website: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-AbderahmanBenrhziyel.pdf
-  5. WCAG checklist van Milka website: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-Milka-originele-website.pdf
-  6. https://www.w3schools.com/css/css_grid_container.asp
-  7. https://jigsaw.w3.org/css-validator/
-  8. https://validator.w3.org/
-  9. https://validator.w3.org/nu/?doc=https%3A%2F%2Fab0111.github.io%2FFed%2F
+  6. Css-grid-uitleg: https://www.w3schools.com/css/css_grid_container.asp
+  7. Css-validator: https://jigsaw.w3.org/css-validator/
+  8. Validator: https://validator.w3.org/
+  9. Validator: https://validator.w3.org/nu/?doc=https%3A%2F%2Fab0111.github.io%2FFed%2F
   10. Testverslag-Milka: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-Milka-originele-website.pdf
   11. Testverslag-mijnWebsite: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-%20mijn%20website-updated.pdf
       
