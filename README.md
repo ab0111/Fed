@@ -333,7 +333,7 @@ Het verbeteren van de responsiviteit.
   2. Originele website van Milka: [bron 2](https://www.milka.nl/nieuws)https://www.milka.nl
   3. Responsive hamburger menu: [...](https://codepen.io/shooft/pen/ZEVYyMQ)https://codepen.io/shooft/pen/ZEVYyMQ
   4. WCAG checklist van mijn website: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-AbderahmanBenrhziyel.pdf
-  5. WCAG checklist van Milka website:
+  5. WCAG checklist van Milka website: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-Milka-originele-website.pdf
   6. https://www.w3schools.com/css/css_grid_container.asp
   7. https://jigsaw.w3.org/css-validator/
   8. https://validator.w3.org/
