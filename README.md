@@ -342,5 +342,8 @@ Het verbeteren van de responsiviteit.
   7. https://jigsaw.w3.org/css-validator/
   8. https://validator.w3.org/
   9. https://validator.w3.org/nu/?doc=https%3A%2F%2Fab0111.github.io%2FFed%2F
+  10. Testverslag-Milka: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-Milka-originele-website.pdf
+  11. Testverslag-mijnWebsite: https://github.com/ab0111/Fed/blob/main/FED%2023-24%20-%20Blok%202%20-%20WCAG%20checklist-%20mijn%20website-updated.pdf
+      
 
 </details>
