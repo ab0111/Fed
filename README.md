@@ -185,6 +185,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Muis en Toetsenbord 
   Desondanks bleek dit de gemakkelijkste en snelste manier om door mijn website te navigeren.
 
+[FED 23-24 - Blok 2 - WCAG checklist- mijn website-updated.pdf](https://github.com/ab0111/Fed/files/14101091/FED.23-24.-.Blok.2.-.WCAG.checklist-.mijn.website-updated.pdf)
+
+[FED 23-24 - Blok 2 - WCAG checklist-Milka-originele-website.pdf](https://github.com/ab0111/Fed/files/14101092/FED.23-24.-.Blok.2.-.WCAG.checklist-Milka-originele-website.pdf)
+
+
 </details>
 
 
